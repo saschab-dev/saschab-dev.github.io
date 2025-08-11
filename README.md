@@ -32,3 +32,4 @@ This is a minimal, clean portfolio starter ready for **GitHub Pages** with a cus
 
 ## License
 MIT – do whatever you want, just keep the copyright notice.
+
